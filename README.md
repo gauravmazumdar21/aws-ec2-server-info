@@ -33,4 +33,4 @@ The script output includes:
 - Server RAM Details
 
 ## Example Output
-
+![](output.PNG)
